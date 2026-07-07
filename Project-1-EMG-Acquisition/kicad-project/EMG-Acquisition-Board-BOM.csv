@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R5,R12,R9,R18,R11,R17,R10,R8";"R_0402_1005Metric";8;"10kΩ";;;
+2;"C11,C4,C1,C6,C10,C12,C8,C9";"C_0402_1005Metric";8;"100nF";;;
+3;"R1,R2";"R_0402_1005Metric";2;"100kΩ";;;
+4;"U4";"SOIC-8_3.9x4.9mm_P1.27mm";1;"TLV2372";;;
+5;"R16,R15";"R_0402_1005Metric";2;"3.3kΩ";;;
+6;"R4,R7,R3,R6";"R_0402_1005Metric";4;"1MΩ";;;
+7;"Rg1,Rg2";"R_0402_1005Metric";2;"1kΩ";;;
+8;"C2,C7,C3,C5,C13";"C_0805_2012Metric";5;"10µF";;;
+9;"R13,R14";"R_0402_1005Metric";2;"30kΩ";;;
+10;"U5";"TSSOP-10_3x3mm_P0.5mm";1;"ADS1115IDGS";;;
+11;"U2,U3";"WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm";2;"INA333xxDRG";;;
+12;"J1,J2";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02";;;
+13;"U1";"SOT-353_SC-70-5";1;"TLV6001DCK";;;
+14;"J3";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
