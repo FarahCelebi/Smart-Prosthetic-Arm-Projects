@@ -102,7 +102,7 @@ which connects to the host microcontroller.
 
 ## Part of
 
-Smart Prosthetic Arm — Project 1 of 6
+Smart Prosthetic Arm — EMG-Acquisition #1
 
 ## Tools
 
