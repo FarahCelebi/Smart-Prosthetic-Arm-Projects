@@ -1,4 +1,3 @@
-
 # EMG-Acquisition-Board
 
 A dual-channel electromyography (EMG) signal acquisition board for surface
@@ -102,7 +101,7 @@ which connects to the host microcontroller.
 
 ## Part of
 
-Smart Prosthetic Arm — EMG-Acquisition #1
+Smart Prosthetic Arm — Project 1 of 6
 
 ## Tools
 

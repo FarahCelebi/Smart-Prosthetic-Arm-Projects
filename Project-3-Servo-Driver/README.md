@@ -124,7 +124,7 @@ Default I²C address: **0x40** (all address jumpers open)
 
 ## Part of
 
-Smart Prosthetic Arm — Servo-Driver #3
+Smart Prosthetic Arm — Project 3 of 6
 
 ## Tools
 
