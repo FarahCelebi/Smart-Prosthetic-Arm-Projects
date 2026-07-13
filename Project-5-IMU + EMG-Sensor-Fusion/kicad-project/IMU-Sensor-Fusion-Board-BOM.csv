@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R2,R4,R3,R1";"R_0402_1005Metric";4;"10kΩ";;;
+2;"C3,C2,C4,C5";"C_0402_1005Metric";4;"100nF";;;
+3;"J3";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
+4;"C6";"C_0402_1005Metric";1;"1µF";;;
+5;"C1";"C_0805_2012Metric";1;"10µF";;;
+6;"U1";"IIM42352";1;"ICM-42688-P";;;
+7;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
+8;"J2";"PinHeader_1x07_P2.54mm_Vertical";1;"Conn_01x07";;;
