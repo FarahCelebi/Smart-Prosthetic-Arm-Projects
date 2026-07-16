@@ -127,8 +127,8 @@ perimeter.
 | PB6 | I2C1_SCL | J4 pin 3, J7 pin 9, J8 pin 3 |
 | PB7 | I2C1_SDA | J4 pin 4, J7 pin 8, J8 pin 4 |
 | PB8 | IMU_INT1 | J5 pin 7 |
+| PB9 | I2C2_SDA | J6 pin 4 |
 | PB10 | I2C2_SCL | J6 pin 3 |
-| PB11 | I2C2_SDA | J6 pin 4 |
 | PH0 | OSC_IN | Y1 pin 1 |
 | PH1 | OSC_OUT | Y1 pin 2 |
 
