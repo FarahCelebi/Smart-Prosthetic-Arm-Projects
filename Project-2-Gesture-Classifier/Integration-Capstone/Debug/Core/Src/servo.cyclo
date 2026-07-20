@@ -1,0 +1,4 @@
+../Core/Src/servo.cpp:5:13:void PCA_WriteReg(uint8_t, uint8_t)	1
+../Core/Src/servo.cpp:10:13:void PCA_SetChannel(uint8_t, uint16_t, uint16_t)	1
+../Core/Src/servo.cpp:20:6:void Servo_Init(I2C_HandleTypeDef*)	1
+../Core/Src/servo.cpp:32:6:void Servo_SetGesture(Gesture)	13

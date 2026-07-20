@@ -1,0 +1,2 @@
+../Core/Src/ble.cpp:7:6:void BLE_Init(UART_HandleTypeDef*)	16	static
+../Core/Src/ble.cpp:11:6:void BLE_SendTelemetry(Gesture, EMGFeatures*, IMUData*)	208	static
